@@ -1,0 +1,30 @@
+[
+  {
+    "id": 11111,
+    "category": "Meal Type",
+    "items": [
+      {
+        "id": 1,
+        "itemName": "Breakfast",
+        "price": 10,
+        "quantity": 0,
+        "img": "https://b.zmtcdn.com/data/pictures/9/19570539/d7670e70e86ebafdc82b9461eebf854e.jpg?output-format=webp"
+      },
+      {
+        "id": 2,
+        "itemName": "Lunch",
+        "price": 15,
+        "quantity": 0,
+        "img": "https://b.zmtcdn.com/data/pictures/chains/3/93043/472257cae06db1d30e3d73971f9135be_o2_featured_v2.jpg?output-format=webp"
+      },
+      {
+        "id": 3,
+        "itemName": "Dinner",
+        "price": 15,
+        "quantity": 0,
+        "img": "https://b.zmtcdn.com/data/dish_photos/3b8/22f1f678027ae64255496270886723b8.jpg?fit=around|130:130&crop=130:130;*,*"
+      }
+    ]
+  }
+ 
+]
